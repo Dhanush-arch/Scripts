@@ -1,5 +1,4 @@
-# Scripts
-#Usage
+# Scripts Usage
 
 chmod 755 arch-linux-clean.sh
 
