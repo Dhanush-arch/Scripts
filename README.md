@@ -1,2 +1,6 @@
 # Scripts
-Custom scripts
+#Usage
+
+chmod 755 arch-linux-clean.sh
+
+./arch-linux-clean.sh
